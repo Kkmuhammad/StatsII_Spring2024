@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.6)  31 MAR 2024 19:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.6)  31 MAR 2024 23:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**PS2.tex
-(./PS2.tex
+**replication.tex
+(./replication.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22>
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
@@ -825,8 +825,8 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count336
 \l__pdf_internal_box=\box76
 )
-(./PS2.aux)
-\openout1 = `PS2.aux'.
+(./replication.aux)
+\openout1 = `replication.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
 LaTeX Font Info:    ... okay on input line 68.
@@ -883,21 +883,79 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 Package xypdf Info: Line width: 0.47998pt on input line 68.
 Package hyperref Info: Link coloring OFF on input line 68.
- (./PS2.out)
-(./PS2.out)
+
+(./replication.out) (./replication.out)
 \@outlinefile=\write7
-\openout7 = `PS2.out'.
+\openout7 = `replication.out'.
 
 \c@lstlisting=\count343
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--87
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+[]|\OT1/cmr/m/n/12 Multiple Ran-dom
+ []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]|\OT1/cmr/m/n/12 Bradley and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
+[]|\OT1/cmr/m/n/12 Likas et al.
+ []
+
+
+Underfull \hbox (badness 2384) in paragraph at lines 93--93
+[]|\OT1/cmr/m/n/12 Khan and Ah-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
+[]|\OT1/cmr/m/n/12 Cluster cen-ter ini-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
+\OT1/cmr/m/n/12 tial-iza-tion al-go-rithm
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]|\OT1/cmr/m/n/12 Deelers and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+\OT1/cmr/m/n/12 Auwatana-
  []
 
 [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
-al/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<image1.png, id=15, 534.99875pt x 569.62813pt>
+File: image1.png Graphic file (type png)
+<use image1.png>
+Package pdftex.def Info: image1.png  used on input line 108.
+(pdftex.def)             Requested size: 213.9957pt x 227.84721pt.
+<image2.png, id=17, 539.51563pt x 572.1375pt>
+File: image2.png Graphic file (type png)
+<use image2.png>
+Package pdftex.def Info: image2.png  used on input line 109.
+(pdftex.def)             Requested size: 215.80241pt x 228.85094pt.
+
+[2]
+<image3.png, id=22, 543.02875pt x 558.58687pt>
+File: image3.png Graphic file (type png)
+<use image3.png>
+Package pdftex.def Info: image3.png  used on input line 117.
+(pdftex.def)             Requested size: 217.20764pt x 223.43079pt.
+ [3 <./image1.png> <./image2.png> <./image3.png>]
+<image4.png, id=30, 564.1075pt x 392.96812pt>
+File: image4.png Graphic file (type png)
+<use image4.png>
+Package pdftex.def Info: image4.png  used on input line 136.
+(pdftex.def)             Requested size: 451.2866pt x 314.37491pt.
+ [4 <./image4.png>]
 (/usr/local/texlive/2023/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 )
@@ -908,47 +966,70 @@ File: lstlang2.sty 2023/02/27 1.9 listings language file
 File: lstlang3.sty 2023/02/27 1.9 listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 121.
- (./PS2.R
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 4
-3.
+nput line 148.
 
-(/usr/local/texlive/2023/texmf-dist/tex/latex/base/omlcmr.fd
+(./rep_code.R
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 7
+.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 43.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 7.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 7
+.
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-Overfull \hbox (79.2637pt too wide) in paragraph at lines 123--137
-[] 
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 7.
+ [5{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.en
+c}] [6])
+<image5.png, id=134, 1445.4pt x 903.375pt>
+File: image5.png Graphic file (type png)
+<use image5.png>
+Package pdftex.def Info: image5.png  used on input line 155.
+(pdftex.def)             Requested size: 505.89758pt x 316.18599pt.
+
+Overfull \hbox (53.76738pt too wide) in paragraph at lines 155--156
+[][] 
  []
 
-[2] (./PS2.R) [3] (./PS2.R) (./PS2.R) [4] (./PS2.aux)
-Package rerunfilecheck Info: File `PS2.out' has not changed.
+<image6.png, id=135, 1445.4pt x 903.375pt>
+File: image6.png Graphic file (type png)
+<use image6.png>
+Package pdftex.def Info: image6.png  used on input line 159.
+(pdftex.def)             Requested size: 505.89758pt x 316.18599pt.
+
+Overfull \hbox (53.76738pt too wide) in paragraph at lines 159--160
+[][] 
+ []
+
+[7 <./image5.png>] [8 <./image6.png>] (./replication.aux)
+Package rerunfilecheck Info: File `replication.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 27074 strings out of 476025
- 476477 string characters out of 5790017
- 2051388 words of memory out of 5000000
- 46968 multiletter control sequences out of 15000+600000
- 523033 words of font info for 77 fonts, out of 8000000 for 9000
+ 27211 strings out of 476025
+ 478715 string characters out of 5790017
+ 2187388 words of memory out of 5000000
+ 47071 multiletter control sequences out of 15000+600000
+ 522527 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,8n,89p,3235b,2214s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,8n,89p,3243b,2744s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
-/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
-sr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
-/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/l
-ocal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/loca
-l/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local
-/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/t
-exlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on PS2.pdf (4 pages, 127328 bytes).
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
+local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/loc
+al/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loca
+l/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on replication.pdf (8 pages, 1070162 bytes).
 PDF statistics:
- 158 PDF objects out of 1000 (max. 8388607)
- 130 compressed objects within 2 object streams
- 68 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 218 PDF objects out of 1000 (max. 8388607)
+ 178 compressed objects within 2 object streams
+ 105 named destinations out of 1000 (max. 500000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
